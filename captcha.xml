@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE extension>
+<extension version="3.0" type="plugin" group="droideforms" method="upgrade">
+	<name>Plugin capcha droide</name>
+	<version>1.0</version>
+	<creationDate>2016-06-16</creationDate>
+	<author>André Luiz</author>
+	<authorEmail>and4563@gmail.com</authorEmail>
+	<authorUrl>http://www.next4.com.br</authorUrl>
+	<copyright>www.next4.com.br</copyright>
+	<license>GNU/GPLv3 or later</license>
+	<description>Plugin que gera um Captha no sistema</description>
+	<files>
+		<filename plugin="captcha">captcha.php</filename>
+	</files>
+</extension>
